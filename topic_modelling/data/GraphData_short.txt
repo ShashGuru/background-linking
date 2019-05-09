@@ -1,0 +1,7 @@
+{"t_id": "00f57310e5c8ec7833d6756ba637332e", "similarity": "0.90704346", "score": "16\n", "q_id": "9171debc316e5e2782e0d2404ca7d09d"}
+{"t_id": "02ae7136-006d-11e3-9711-3708310f6f4d", "similarity": "0.84661585", "score": "2\n", "q_id": "9171debc316e5e2782e0d2404ca7d09d"}
+{"t_id": "035622671d5ee6a098d686c9a4d5b18e", "similarity": "0.92402244", "score": "16\n", "q_id": "9171debc316e5e2782e0d2404ca7d09d"}
+{"t_id": "041e530b21766fc294d4e9c48b1e2723", "similarity": "0.8031406", "score": "0\n", "q_id": "9171debc316e5e2782e0d2404ca7d09d"}
+{"t_id": "049739753ce2e539d8dc2165daaf6aa6", "similarity": "0.9120196", "score": "4\n", "q_id": "9171debc316e5e2782e0d2404ca7d09d"}
+{"t_id": "071068774e4eb454c1702192fcca886b", "similarity": "0.86043257", "score": "2\n", "q_id": "9171debc316e5e2782e0d2404ca7d09d"}
+{"t_id": "071ad6f3cfba2273c7f8d5264c0a7583", "similarity": "0.86568487", "score": "16\n", "q_id": "9171debc316e5e2782e0d2404ca7d09d"}
